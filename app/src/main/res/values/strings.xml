@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList(Not Smart)</string>
+    <string name="TextBoxHint">Enter Todo Item</string>
+    <string name="AddButtonText">Add Item</string>
+    <string name="RemoveBtnText">Remove Done</string>
+    <string name="exampleTextLabel">Example</string>
+</resources>
